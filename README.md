@@ -171,9 +171,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- Website: [logo-animation-studio.dev](https://logo-animation-studio.dev)
-- Twitter: [@LogoAnimStudio](https://twitter.com/LogoAnimStudio)
-- Email: support@logo-animation-studio.dev
+- Twitter: [@aimoon_org](https://twitter.com/aimoon_org)
+- Email: aimmon.xyz@gmail.com
 
 ---
 
